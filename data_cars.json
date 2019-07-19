@@ -1,0 +1,94 @@
+{
+	"data": {
+		"7": {
+			"id": 1,
+			"name": "Тюриков Т.",
+			"city": "г.Нижний Новгород",
+			"car": "Audi R8"
+		},
+		"12": {
+			"id": 2,
+			"name": "Волик А.",
+			"city": "Санкт-Петербург",
+			"car": "Subaru Impreza"
+		},
+		"14": {
+			"id": 3,
+			"name": "Арутюнян А.",
+			"city": "Армавир",
+			"car": "Audi RS7 Seven Force Stage 3"
+		},
+		"18": {
+			"id": 4,
+			"name": "Голына А.",
+			"city": "пос.Власиха",
+			"car": "Audi TT RS"
+		},
+		"8": {
+			"id": 5,
+			"name": "Стулов К.",
+			"city": "Москва",
+			"car": "Audi RS6 Seven Force Stage 2"
+		},
+		"48": {
+			"id": 6,
+			"name": "Юмаев Е.",
+			"city": "Москва",
+			"car": "Audi RS6"
+		},
+		"9": {
+			"id": 7,
+			"name": "Тюриков А.",
+			"city": "Н.Новгород",
+			"car": "Nissan GTR"
+		},
+		"11": {
+			"id": 8,
+			"name": "Семушин Р.",
+			"city": "Санкт-Петербург",
+			"car": "Ford Mustang Shelby GT500"
+		},
+		"19": {
+			"id": 9,
+			"name": "Чотчаев О.",
+			"city": "г.Учкекен",
+			"car": "VAZ 2113"
+		},
+		"27": {
+			"id": 10,
+			"name": "Лобачев А.",
+			"city": "Москва",
+			"car": "Porsche 911"
+		},
+		"33": {
+			"id": 11,
+			"name": "Огородников А.",
+			"city": "Уссурийск",
+			"car": "Nissan GTR"
+		},
+		"37": {
+			"id": 12,
+			"name": "Савинов С.",
+			"city": "Москва",
+			"car": "Mercedes-Benz E63 AMG"
+		},
+		"56": {
+			"id": 13,
+			"name": "Савинов С.",
+			"city": "Москва",
+			"car": "Mercedes-Benz E63 AMG"
+		},
+		"6": {
+			"id": 14,
+			"name": "Игнатко С.",
+			"city": "Москва",
+			"car": "Porsche 911"
+		},
+		"1": {
+			"id": 15,
+			"name": "Сидоров Е.",
+			"city": "Прохладный",
+			"car": "Toyota Chaser"
+		}
+	}
+}
